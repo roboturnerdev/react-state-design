@@ -8,6 +8,4 @@ Designing in this manner helps us satisfy the two design points discussed in the
 
 * Centralize State In Parent
 
-> The notes I've taken on the topic of state-design can be found in /public/notes/
-
-## Requirements:
+**The notes I've taken on the topic of state-design can be found in /public/notes/**
